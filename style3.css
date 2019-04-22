@@ -1,0 +1,48 @@
+body{
+    background-image: url(https://blog.milligram.com/wp-content/uploads/2016/02/v-day-love-letters-banner.jpeg)
+}
+#pourbg{
+    background-image: url(https://www.mindful.org/content/uploads/2016/08/goldstein-in-page.jpg);
+    background-position: top;
+    background-position: center;
+    padding-top: 250;
+}
+#pour{
+    margin-left: 120;
+}
+h1{
+    font-size: 70;
+}
+#pourbod{
+    background-color: oldlace;
+    font-size: 20;
+    margin-top: 10;
+    margin-bottom: 10;
+    padding: 50;
+    opacity: .90;
+}
+#enchant{
+   display: block;
+    margin-left: 270
+}
+#star{
+    display: block;
+    margin-left: 270
+}
+
+#ocean{
+    display: block;
+    margin-left: 230
+}
+#dom{
+    display: block;
+    margin-left: 220
+}
+#gringo{
+    display: block;
+    margin-left: 170
+}
+#nachos{
+    display: block;
+    margin-left: 130
+}
